@@ -1,8 +1,10 @@
 ### TO DO LIST (Lista de Afazeres)
 
+Criação de uma agenda para cadastro de tarefas do dia a dia
 
-Cadastrar as tarefas do dia.
-Entrar no sistema e escrever a tarefa a ser realizada e mostrá-la na tela até o momento de ser marcada como feita, para que assim o sistema mostre que ela já foi realizada.
-E também ter a opção de remover uma tarefa que já foi ou não executada. E atualizar uma tarefa já criada.
-E ter um histórico de todas as tarefas realizadas.
+Para ter acesso a agenda, o usuário precisará fazer o login e assim poder adicionar a tarefa a ser a realizada.
+Após adicionada uma tarefa, ela será exibida na tela com o status de "pendente" até o momento de ser marcada com feita. E depois, será atualizada para o status de "concluída".
+
+Além disso, o usuário terá a opção de remover uma tarefa concluída ou não e atualizar uma já criada. Assim como, terá a opção de fazer uma busca por status da tarefa.
+
 
